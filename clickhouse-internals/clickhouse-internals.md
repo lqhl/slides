@@ -73,7 +73,7 @@ Process data fast
 
 The principle is the same as with classic DBMSes
 
-- A majority of queries will contain conditions on CounterID and (possibly) Date
+- A majority of queries will contain conditions on `CounterID` and (possibly) `Date`
 
 `(CounterID, Date)` fits the bill
 
